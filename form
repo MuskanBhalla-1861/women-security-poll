@@ -1,1 +1,16 @@
-<h1> Form to evaluate security of women on the internet </h1>
+<h1> Survey on security of women on the internet</h1>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+<style>
+h1 { font-family:'Dancing Script', cursive;} 
+</style>
+<form>
+<ol>
+<li>Have you ever in your life have felt that your privacy has been invaded on the internet?</li>
+<label for="yes">
+<input id="yes" type="radio" name="yes-no">Yes</label>
+<label for="no">
+<input id="no" type="radio" name="yes-no">No</label>
+
+<button type="submit">Submit your response</button>
+</form>
