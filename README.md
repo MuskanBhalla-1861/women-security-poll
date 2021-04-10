@@ -19,7 +19,7 @@
       <li>Morphing</li><br>
       <li>Email Spoofing</li><br>
     </ol>
-    <img src="https://user-images.githubusercontent.com/81457490/114273620-677ca480-9a38-11eb-8dc4-f27fd3dff0bb.png" alt="Cyber Crime affect women mentally and emotionally"><br><br>
+    <img src="https://user-images.githubusercontent.com/81457490/114273709-d78b2a80-9a38-11eb-918c-a41039da098f.png" alt="Cyber Crime affect women mentally and emotionally"><br><br>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2486125">Click here for more information on this topic</a><br><br>
 
 
