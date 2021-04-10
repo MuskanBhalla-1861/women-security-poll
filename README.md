@@ -1,7 +1,9 @@
 
 # women-security-poll
 <html>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
+   
+<h1>Women's Security</h1><br>
+ <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 <style>
     h1 { font-family:'Dancing Script', cursive;} 
@@ -9,7 +11,6 @@
     p2 { font-family:'Dancing Script', cursive;} 
     p3 { font-family: 'Dancing Script', cursive;}
 </style>
-<h1>Women's Security</h1><br>
   <p1>"I am not free while any woman is unfree,even when her shackles are very different from my own"</p1><br><br>
   <img class="thick-black-border" src="https://user-images.githubusercontent.com/81457490/114273862-79ab1280-9a39-11eb-8b7f-dfe7b6bae0f2.png" alt="United we stand">United we stand<br><br>
   <p2>Women in present world are no less than any men, we know our worth and we don’t let anyone treat us any less. We are going out there and proving everyone that we deserve what we demand. But standing our grounds is not that easy every time. Women deal with many issues on daily basis like eve-teasing, rape, sexual assault, cyber-bullying, stalking and what not, and it effects their mental health, their social life. It’s high time now these problem needs to be addressed and resolved as these are stopping half of our population from working to it’s full potential.</p2><br><br>
