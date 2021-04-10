@@ -1,6 +1,8 @@
 
 # women-security-poll
 <html>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 <style>
     h1 { font-family:'Dancing Script', cursive;} 
     p1 { font-family: 'Dancing Script', cursive;}
