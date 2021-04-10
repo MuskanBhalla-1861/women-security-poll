@@ -3,22 +3,55 @@
 <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 <style>
 h1 { font-family:'Dancing Script', cursive;} 
+form { font-family: 'Dancing Script', cursive;}
 </style>
-<form>
+<form action="https://github.com/MuskanBhalla-1861/women-security-poll/edit/main/form">
 <ol>
-<li>Have you ever felt that your privacy has been invaded on the internet?</li>
+<li>Have you ever felt that your privacy has been invaded on the internet?</li><br>
 <label for="yes">
 <input id="yes" value="yes" type="radio" name="yes-no">Yes</label><br>
 <label for="no">
-<input id="no" value="no" type="radio" name="yes-no">No</label>
-<li>Do you think the cyber crime against women have increased in this COVID period </li>
-<label for="yes">
-<input id="yes" value="yes" type="radio" name="yes-no">Yes</label><br>
-<label for="no">
-<input id="no" value="no" type="radio" name="yes-no">No</label>
-<li>
-
-
+<input id="no" value="no" type="radio" name="yes-no">No</label><br>
+<li>Do you think the cyber crime against women have increased in this COVID period </li><br>
+<label for="yes1">
+<input id="yes1" value="yes" type="radio" name="yes-no 1">Yes</label><br>
+<label for="no1">
+<input id="no1" value="no" type="radio" name="yes-no 1">No</label><br>
+<li>What has been your experience with cyberbullying?</li>
+<label for="views">your experience:</label><br>
+  <input type="text" id="views" name="views" value="write your experience here"><br><br>
+  <li>According to you which applications have more number of cyber crimes?</li>
+  <input type="checkbox" id="application1" name="application1" value="Instagram">
+  <label for="application1">Instagram</label><br>
+  <input type="checkbox" id="application2" name="application2" value="Facebook">
+  <label for="application2">Facebook</label><br>
+  <input type="checkbox" id="application3" name="application3" value="whatsapp">
+  <label for="application3">Whatsapp</label><br>
+<label for="Application">Some other application:</label>
+  <input type="text" id="Application" name="Application" value="others"><br><br>
+  <li>What changes according to you can be made in these application to prevent these type of crimes?</li><br>
+  <label for="Changes Required">Changes Required:</label>
+  <input type="text" id="Changes Required" name="Changes Required" value="Your Views"><br><br>
+  <li>Have you reported/told anyone about your cyber crime incident?</li>
+  <label for="yes2">
+<input id="yes2" value="yes" type="radio" name="yes-no 2">Yes</label><br>
+<label for="no2">
+<input id="no2" value="no" type="radio" name="yes-no 2">No</label><br><br>
+<li>How it effected you emotionally or mentally and how you dealt with it?</li>
+<label for="Effects">share your experience with us:</label>
+  <input type="text" id="Effects" name="Effects" value="We are all ears"><br><br>
+  <li>How people you know reacted when you told them about this incident?</li>
+<label for="Other people">Choose how they reacted:</label>
+  <select id="Other people" name="Reaction">
+    <option value="understanding and helpful">They understood your situation and helped you </option>
+    <option value="ignored the problem">Told you to ignore it as this kind of stuff are normal and happen to everyone</option>
+    <option value="Blamed you">They blamed you for that incident saying that's all your fault</option>
+    <option value="no knowledge">They couldn't help you because they don't have that much knowledge in this field</option>
+  </select><br><br>
+  <li>What do you think  is the main reason behind these type of crimes?</li>
+  <label for="reason">Comment your views here:</label>
+  <input type="text" id="reason" name="reason" value="your opinion matters to us"><br><br>
+  </ol>
 
 <button type="submit">Submit your response</button>
 </form>
