@@ -51,6 +51,9 @@ form { font-family: 'Dancing Script', cursive;}
   <li>What do you think  is the main reason behind these type of crimes?</li>
   <label for="reason">Comment your views here:</label>
   <input type="text" id="reason" name="reason" value="your opinion matters to us"><br><br>
+  <li>some suggestion you would like to women like you going through the same problem.</li>
+  <label for="suggestion">Help other women like you:</label>
+  <input type="text" id="suggestion" name="suggestion" value="empower others"><br><br>
   </ol>
 
 <button type="submit">Submit your response</button>
