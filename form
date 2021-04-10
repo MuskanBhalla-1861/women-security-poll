@@ -6,11 +6,19 @@ h1 { font-family:'Dancing Script', cursive;}
 </style>
 <form>
 <ol>
-<li>Have you ever in your life have felt that your privacy has been invaded on the internet?</li>
+<li>Have you ever felt that your privacy has been invaded on the internet?</li>
 <label for="yes">
-<input id="yes" type="radio" name="yes-no">Yes</label>
+<input id="yes" value="yes" type="radio" name="yes-no">Yes</label><br>
 <label for="no">
-<input id="no" type="radio" name="yes-no">No</label>
+<input id="no" value="no" type="radio" name="yes-no">No</label>
+<li>Do you think the cyber crime against women have increased in this COVID period </li>
+<label for="yes">
+<input id="yes" value="yes" type="radio" name="yes-no">Yes</label><br>
+<label for="no">
+<input id="no" value="no" type="radio" name="yes-no">No</label>
+<li>
+
+
 
 <button type="submit">Submit your response</button>
 </form>
