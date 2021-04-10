@@ -1,15 +1,21 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 <style>
-p4 { font-family
-
-
+p4 { font-family : "Dancing Script", cursive;
+font-size : 40px;}
+h3 { font-family : "Dancing Script", cursive;}
+p5 { font-family : "Dancing Script", cursive;
+font-size : 24px;}
+form { font-family : "Dancing Script", cursive;}
+</style>
 
 <p4> This form will help us reach to a solution that will be beneficial to large numbers of women and will help them get back stronger after this adversity.</p4><br><br>
-<h3>But here are some guidelines for you, if you ever find yourself in these kind of situation you can use them and can help yourself "Be your own SAVIOUR":<h3><br><br>
+<h3>But here are some guidelines for you, if you ever find yourself in these kind of situation you can use them and can help yourself "Be your own SAVIOUR":<br><br>
 <ol>
-<li>Don't panick, i konw it's better said than done but still try to be calm, don't blame yourself for anything remember you are not at fault here.</li><br>
+<li>Don't panick, i konw it's better said than done but still try to be calm, don't blame yourself for anything remember you are not at fault here.</li>
 <li>Talk to anyone you think who would understand your problem.</li>
 <li> We would suggest you to report the incident to your nearest Cyber Crime Cell.</li>
-</ol><br><br>
+</ol></h3><br><br>
 <p5>A small initiative by us, you can write your problem here, we won't be able to help you in any way but atleast we can listen, nobody will judge you, just write what you feel</p5><br><br>
 <form action="https://github.com/MuskanBhalla-1861/women-security-poll/edit/main/end">
 <label for="Name">Name:</label><br>
@@ -17,6 +23,6 @@ p4 { font-family
 <label for="story">your story:</label><br>
   <input type="text" id="story" name="your story" value="tell us"><br><br>
 <label for="phone">Enter your phone number if you wish to be contacted in future:</label><br><br>
-  <input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"><br><br>
-  <small>Format: 123-45-678</small><br><br>
+  <input type="tel" id="phone" name="phone" placeholder="+91" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"><br><br>
+  <small>Format:+91 0000 000 000</small><br><br>
   </form>
