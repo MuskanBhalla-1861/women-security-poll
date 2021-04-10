@@ -7,6 +7,6 @@
 ![image](https://user-images.githubusercontent.com/81457490/114280465-f8fb0f00-9a56-11eb-99cf-971df651d395.png)
 
 # Content
-*Subject*
-*Form*
-*End*
+Subject
+Form
+Helpful Guideline and Your space.
