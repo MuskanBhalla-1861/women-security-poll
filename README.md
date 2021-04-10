@@ -4,13 +4,8 @@
 <style>
     h1 { font-family:'Dancing Script', cursive;} 
     p1 { font-family: 'Dancing Script', cursive;}
-    p2{ font-family:'Dancing Script', cursive;} 
+    p2 { font-family:'Dancing Script', cursive;} 
     p3 { font-family: 'Dancing Script', cursive;}
-    
-.thick-black-border{
-        border-color: black;
-        border-width: 30px;
-    }
 </style>
 <h1>Women's Security</h1><br>
   <p1>"I am not free while any woman is unfree,even when her shackles are very different from my own"</p1><br><br>
